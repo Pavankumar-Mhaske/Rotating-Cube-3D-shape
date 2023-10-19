@@ -28,6 +28,10 @@ Contributions are always welcome!
 
 ## 📸 Screenshots 📷🎥
 
+![Screenshot (768)](https://github.com/Pavankumar-Mhaske/Rotating-Cube-3D-shape/assets/104865937/66ec99aa-e328-463c-8d57-26c78cf9921a)
+
+![Screenshot (769)](https://github.com/Pavankumar-Mhaske/Rotating-Cube-3D-shape/assets/104865937/ce08bed8-61ad-47cc-83cb-ee395c37ef7d)
+
 ## Used By
 
 This project is used by the following companies:
